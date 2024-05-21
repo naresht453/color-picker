@@ -1,0 +1,47 @@
+.color-picker-container{
+    background-color: #ffffff;
+    height: 100vh;
+}
+.color-heading{
+    font-family: Open Sans;
+    font-weight: 800;
+    font-size: 50px;
+}
+.button{
+    font-family: Open Sans;
+    height: 100px;
+    width: 100px;
+    font-size: 14px;
+    border-width: 3px;
+    border-radius: 11px;
+    border-color: black;
+    margin-bottom: 10px;
+}
+.button-1{
+    background-color: #e0e0e0;
+}
+.button-2{
+    background-color: #6fcf97;
+}
+.button-3{
+    background-color: #56ccf2;
+}
+.button-4{
+    background-color: #bb6bd9;
+}
+.selected-color-hex-code{
+      color: #49a6e9;
+}
+.color-picker-description{
+     font-family: Open Sans;
+     font-size: 20px;
+}
+.select-color-text{
+    background-color: #222222;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 16px;
+    font-family: Open Sans;
+}
